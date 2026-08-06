@@ -37,11 +37,11 @@ EmployeeHub Pro is an **Enterprise Workforce Management System** designed to str
 ## 📷 Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](assets/dashboard1.png)
-![Dashboard Screenshot](assets/dashboard3.png)
+![Dashboard Screenshot](assets/dashbord.png.png)
+![Dashboard Screenshot](assets/dashbord3.png.png)
 
 ### Employee Table
-![Dashboard Screenshot](assets/dashboard2.png)
+![Dashboard Screenshot](assets/dashboard2.png.png)
 
 *(Add your screenshots in `assets/screenshots/` folder and update paths accordingly.)*
 
