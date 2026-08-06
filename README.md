@@ -1,4 +1,4 @@
-# EmployeeHub Pro
+# EmployeeHub
 
 ## 📌 Overview
 EmployeeHub Pro is an **Enterprise Workforce Management System** designed to streamline employee data management, payroll tracking, and workforce analytics. It provides HR teams and managers with a clean dashboard to monitor workforce statistics and manage employee records efficiently.
@@ -43,7 +43,6 @@ EmployeeHub Pro is an **Enterprise Workforce Management System** designed to str
 ### Employee Table
 ![Dashboard Screenshot](assets/dashbord2.png.png)
 
-*(Add your screenshots in `assets/screenshots/` folder and update paths accordingly.)*
 
 ---
 
